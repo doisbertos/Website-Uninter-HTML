@@ -1,5 +1,5 @@
 
-
+/*estilização de todos os body*/
 body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -8,7 +8,7 @@ body{
 }
 
 
-
+/*estilização exclusiva dos botões seletores que estão em todas as paginas*/
 .botoes-seletores {
     display: inline-block;
     width: 180px;
@@ -23,11 +23,13 @@ body{
     
 }
 
+
 a {
     text-decoration: none;
     color: rgb(18, 66, 29);
 }
 
+/*estilização de botão enviar da pagina contato*/
 .botaoenviar{
     font-size: 1.2em;
     background-color: rgb(149, 253, 210);
